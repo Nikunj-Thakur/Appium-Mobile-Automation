@@ -18,3 +18,7 @@ This is a basic project to set-up the pre-requisites for Android Virtual Device 
 
 ### 1. Appium Server should be up and running
 ### 2. The Android Virtual Device (AVD) should be up and running
+
+
+# Sample Screenshot
+<img src=https://github.com/Nikunj-Thakur/Appium-Mobile-Automation/blob/main/MobileTesting.png>
